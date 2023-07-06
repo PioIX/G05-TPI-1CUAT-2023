@@ -12,13 +12,16 @@ Para el proyecto integrador elegimos combinar las materias orientadas a informá
 A continuación dejamos algunos bocetos de nuestra página web 🎨
 
 ## Bocetos 🖼
-![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/6b86917c-883b-430f-9eca-ac0ba2ff4259)
+![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/e774dfb2-82b5-48d3-874b-c2f194aa9afe)
+![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/3da5768d-329e-454f-a970-4887e5e933eb)
+![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/992d06a4-35e0-4a15-994c-f06ab13b873b)
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/eb61094e-41a7-438e-a903-c20afcc3fa23)
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/d5298c10-0dcf-46e6-8647-329d13985823)
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/729ecf8f-1c0c-447b-a913-0fc7005ad781)
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/a6128622-1fac-4f69-92bd-57c0f3903f70)
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/0e8c45e6-d4b4-4940-b27b-3eb2847a91d3)
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/0f36ffcd-38c4-4260-b534-c57e98e5279b)
+![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/dede0f2c-220f-4ccb-8191-a6dba1bd845d)
 
 ### Base de datos
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/8c0a022b-7734-4215-9728-02dfedca4331)
