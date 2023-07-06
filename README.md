@@ -20,6 +20,14 @@ A continuación dejamos algunos bocetos de nuestra página web 🎨
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/0e8c45e6-d4b4-4940-b27b-3eb2847a91d3)
 ![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/0f36ffcd-38c4-4260-b534-c57e98e5279b)
 
+### Base de datos
+![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/8c0a022b-7734-4215-9728-02dfedca4331)
+![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/18b4f97d-7dd5-4e69-8888-4f0a36e3fedc)
+![image](https://github.com/santitolosaa/G05-TPI-1CUAT-2023/assets/104151169/28a5257b-8322-477a-bfa3-2e67e81b4579)
+
+Esas 3 tablas serán utilizadas para el juego. 
+
+
 ### Tareas 📋
 - Investigación de palabras que se adecúen al juego
 - Diseño del juego
@@ -33,3 +41,5 @@ Para optimizar tiempo y trabajo decidimos variar los focos de trabajo de cada in
 - 2 y 5: Tolosa
 - 3 y 5: Blanco
 - 4 y 5: Gagliardi
+
+  
