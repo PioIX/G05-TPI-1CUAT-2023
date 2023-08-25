@@ -6,8 +6,8 @@ Para el proyecto integrador elegimos combinar las materias orientadas a informá
 ### Alcance
 - [x] Login/registro
 - [x] Base de Datos con usuarios 
-- [ ] Ranking de los mejores (aquellos que logren acertar la palabra en menos intentos)
-- [ ] Agregado de palabras mediante el usuario administrador
+- [x] Ranking de los mejores (aquellos que logren acertar la palabra en menos intentos)
+- [x] Agregado de palabras mediante el usuario administrador
 
 A continuación dejamos algunos bocetos de nuestra página web 🎨
 
